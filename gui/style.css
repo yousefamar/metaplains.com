@@ -1,0 +1,98 @@
+/* General */
+
+body {
+	background-color: #2A4480;
+}
+
+a {
+	text-decoration:none;
+	color:#1C6F73;
+}
+
+a:hover {
+	text-decoration:none;
+	color:#308B8F;
+}
+
+h2 {
+	color: #06266F;
+}
+
+p {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#container {
+	width: 1100px;
+	margin: auto;
+	background-color: #FFF;
+	color: #333;
+	border: 1px solid #2B2985;
+}
+
+#top {
+	margin-top: 20px;
+	margin-bottom: 200px;
+	background-color: #F1F1FF;
+	display: inline;
+}
+
+#logo {
+	float: left;
+	padding: 15px 0px 20px 25px;
+}
+
+#login {
+	float: right;
+	text-align: right;
+	margin-top: 20px;
+	margin-right: 25px;
+}
+
+#content {
+	clear: both;
+	border-top: 1px solid #2B2985;
+	padding: 10px;
+	margin-top: 30px;
+}
+
+#footer {
+	clear: both;
+	font-size: 12px;
+	padding: .5em;
+	color: #4A498E;
+	background-color: #F1F1FF;
+	border-top: 1px solid #2B2985;
+}
+
+/* Navbar - Thanks, Vanseodesign.com for teaching me! */
+
+#navbar {
+	clear: both;
+}
+
+ul#list-nav {
+	padding:0;
+	width:1100px;
+}
+
+ul#list-nav li {
+	display:inline
+}
+
+ul#list-nav li a {
+	text-decoration:none;
+	padding:5px 0;
+	width:98px;
+	background:#3A4F9E;
+	color:#EFF0FF;
+	float:left;
+	text-align:center;
+	border: 1px solid #fff;
+}
+
+ul#list-nav li a:hover {
+	background:#AEB4FF;
+	color:#222D7F;
+}
